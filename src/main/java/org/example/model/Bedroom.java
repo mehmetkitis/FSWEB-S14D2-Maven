@@ -1,5 +1,5 @@
 package org.example.model;
-
+//.
 public class Bedroom extends Room{
     private String name;
     private Bed bed;
